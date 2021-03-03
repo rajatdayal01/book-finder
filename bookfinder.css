@@ -1,0 +1,61 @@
+html {
+    padding: 0;
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    
+  }
+  
+  
+  
+  #results{
+    font-family: sans-serif;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    
+  }
+  
+  #search{
+    text-align: center;
+    height: 45px;
+    width: 45%;
+    background-color: ghostwhite;
+  }
+  
+  #button{
+    height: 40px;
+    width: 23%;
+    font-size: 10px;
+    font-weight: bold;
+  }
+  .btn{
+    height: 20px;
+    width: 45%;
+    font-size: 12px;
+    cursor: pointer;
+  }
+  
+  
+  h2{
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+  }
+  
+  h1{
+    margin-top: 3%;
+    font-size: 300%;
+    background-color: antiquewhite;
+  }
+  
+  .row {
+    margin-top:100px;
+  }
+  
+  .bookWrap {
+    height:360px;
+    margin-top:20px;
+    border:1px solid gray;
+    flex-basis: 30%;
+  }
